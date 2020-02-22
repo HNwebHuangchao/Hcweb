@@ -1,14 +1,20 @@
 <html>
-<head>
-        <title>�ղ�����</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-</head>
-     <body>
-         <strong><i>��ϲ������</i></strong><br/>
-         <strong>���±�����</strong><br/>
-         <sub>һ��</sub><sup>����</sup>��<br/>
-          <del>����û��ɳ��</del><br/>
-          <ins>����Ʈѩ����</ins>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-      </body>
+   <head>
+              <title>��ҵ</title>
+   </head>
+   <body>
+<strong><i>��ϲ����</i></strong><br/>
+<gg>
+<strong>���±���<strong><br/>
+</gg>
+<red>
+<sub>һ��</sub><sup>����</sub><br/>
+</red>
+<ggg>
+<del>����û��ɳ</del><ins>hhh</ins></br>
+</ggg>
+<oo>
+<u>����Ʈѩ��</u><br/>
+</oo>
+   <body>
 </html>
